@@ -1,0 +1,30 @@
+.cities{
+    width: 85vw;
+    margin: auto;
+}
+
+.country-names{
+    font-size: 23px;
+    font-family: cursive;
+}
+
+
+main{
+    width: 85%;
+    margin: auto;
+
+}
+
+.shanmukh-pricing{
+    width: 85%;
+    margin: auto;
+
+}
+
+.navbar{
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: white;
+    z-index: 999
+}
